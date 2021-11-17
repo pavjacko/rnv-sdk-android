@@ -1,0 +1,31 @@
+{
+  "name": "rnv-sdk-android",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": {
+    "rnv-sdk-android": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "npx tsc --outDir dist",
+    "link": "yarn link",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavjacko/rnv-sdk-android.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavjacko/rnv-sdk-android/issues"
+  },
+  "homepage": "https://github.com/pavjacko/rnv-sdk-android#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {}
+}
