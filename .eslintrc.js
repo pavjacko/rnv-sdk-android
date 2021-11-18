@@ -15,7 +15,7 @@ module.exports = {
     ],
     rules: {
         quotes: 'off',
-        'no-console': 2,
+        'no-console': 1,
         'quote-props': ['error', 'as-needed'],
         '@typescript-eslint/quotes': [
             'error',

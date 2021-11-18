@@ -1,3 +1,14 @@
 # rnv-sdk-android
 
-TODO
+## Setup
+
+```
+yarn bootstrap
+yarn watch
+```
+
+## Run CLI
+
+```
+rnv-sdk-android
+```
