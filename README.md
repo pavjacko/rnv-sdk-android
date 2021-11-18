@@ -1,4 +1,4 @@
-# rnv-sdk-android
+# sdk-android
 
 ## Setup
 
@@ -10,5 +10,5 @@ yarn watch
 ## Run CLI
 
 ```
-rnv-sdk-android
+sdk-android
 ```
